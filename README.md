@@ -1,4 +1,4 @@
-<h1>Hello, I'm Walter! Grinding hard to become a Cybersecurity Professional </h1>
+<h1>Hello, I'm Walter! Aspiring to achieve the expertise of a skilled Cybersecurity Professional. </h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
