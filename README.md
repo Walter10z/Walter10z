@@ -8,6 +8,9 @@
 - <b>Vulnerability Management </b>
   - Compare & Contrast Windows VM Credentialed Scan vs. Non-credentialed Scan with Nessus Vulnerability Scanner (https://github.com/Walter10z/Vulnerability-Scanner-Nessus)
 
+- <b>Active Directory Project <b>
+  - Created a Live Attack on a Windows 10 and Windows Server 2022 (https://github.com/Walter10z/Active-Directory) 
+
 <h2> 🤳 Connect with me:</h2>
 <img align="left" alt="WalterMejia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
